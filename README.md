@@ -12,9 +12,9 @@
 - After being inspired by the applied linguistics work at NAU, I am now learning more about computational linguistics
 
 ## Past Projects and Research
-- [Implemented image preprocessing, transfer learning, and segmentation to classify and detect brain tumors from MRI data set](https://github.com/johnfburkhart/brain-tumor-classification-segmentation)
-- [Used Bayesian statistical software and pathogen genome data to track the spread of pathogens carrying Lyme Disease](https://github.com/johnfburkhart/molecular-epidemiology-project)
-- [Developer of NIH-funded Epidemiological modeling software](https://jrmihalj.github.io/nih-grant/)
+- [Implemented](https://github.com/johnfburkhart/brain-tumor-classification-segmentation) image preprocessing, transfer learning, and segmentation to classify and detect brain tumors from MRI data set
+- [Used](https://github.com/johnfburkhart/molecular-epidemiology-project) Bayesian statistical software and pathogen genome data to track the spread of pathogens carrying Lyme Disease]
+- Developer of NIH-funded Epidemiological modeling software, [Epimorph](https://jrmihalj.github.io/nih-grant/)
 - Studied the enumerative combinatorics of a genome inversion model (signed permutations under the actions of reversal) and managed to prove many new results. Publication is [in preparation](https://danaernst.com/scholarship/academic-writing/)
 - [Aggregated, cleaned, and implemented predictive models on a biological dataset of multiplex polymerase chain reaction trials.](https://github.com/johnfburkhart/ML-Algorithms-for-mPCR-Design)
 
